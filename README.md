@@ -5,3 +5,6 @@ Este projeto visa automatizar a análise de investimentos em carteira de ações
 ## Principais Funcionalidades:
 
 1. Coleta Automática de Dados: O sistema busca automaticamente dados históricos de preços de ações e do Índice BOVESPA, eliminando a necessidade de entrada manual.
+
+
+2. Análise de Desempenho: Utilizando métricas financeiras, o sistema realiza uma análise abrangente do desempenho da carteira de ações em comparação com o Índice BOVESPA.
