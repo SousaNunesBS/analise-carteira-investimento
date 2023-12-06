@@ -8,3 +8,13 @@ Este projeto visa automatizar a análise de investimentos em carteira de ações
 
 
 2. Análise de Desempenho: Utilizando métricas financeiras, o sistema realiza uma análise abrangente do desempenho da carteira de ações em comparação com o Índice BOVESPA.
+
+3. Períodos Customizáveis: Os usuários podem especificar períodos de análise, permitindo flexibilidade para avaliar o desempenho em diferentes cenários de investimento.
+
+4. Relatórios Detalhados: O sistema gera relatórios detalhados, apresentando insights sobre a rentabilidade, volatilidade e outros indicadores importantes.
+
+5. Visualizações Gráficas: Apresentação visual dos resultados, facilitando a interpretação e tomada de decisões informadas.
+
+### Objetivo:
+
+Automatizar o processo de análise de investimentos, permitindo que investidores e analistas avaliem o desempenho de suas carteiras em relação ao mercado de ações brasileiro, representado pelo Índice BOVESPA..
